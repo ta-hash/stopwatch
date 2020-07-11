@@ -1,0 +1,58 @@
+body {
+    color: rgb(34, 37, 37);
+   
+    background: rgb(210, 207, 224);
+    text-align: center;
+  }
+  
+  #start {
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #3500DE;
+    border:solid 2px rgb(88, 88, 238);
+    border-radius:25px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  #stop {
+    margin: 40px 5px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #721329;
+    border:solid 2px #590F20;
+    border-radius:25px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  #clear {
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #564E58;
+    border:solid 2px #3E383F;
+    border-radius:25px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  h1
+  {
+    font-size: 46px;
+    letter-spacing: 2px;
+    
+    display: inline;
+  }
+  .watch-icon {
+    font-size: 200%;
+    margin-bottom: 40px;
+  }
+  #main
+  {
+   border: 1px solid black;
+  }
